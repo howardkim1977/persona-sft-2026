@@ -90,12 +90,13 @@ C0-C2 contrast excluded zero whereas the critical C1-C2 contrast did not,
 an exploratory signal at the lexical-pragmatic level. Based on
 these findings, which provide no evidence of diversity transfer under the
 examined model and training regime and which are released with full code,
-seeds, data, and scoring logs, we expect this study to support
-evidence-based adoption of persona-grounded synthetic data in sovereign
-AI development.
+seeds, data, and scoring logs, we expect this study — a convergence of
+population statistics, sociolinguistic register evaluation, and
+language-model engineering — to support evidence-based adoption of
+persona-grounded synthetic data in sovereign AI development.
 
 **Key Words**: Synthetic Data, Persona Conditioning, Korean Language
-Model, Fine-Tuning, Preregistration
+Model, Fine-Tuning, Preregistration, Convergence Research
 
 ---
 
