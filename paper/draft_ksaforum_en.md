@@ -472,46 +472,47 @@ released22).
 
 ## Reference
 
-[1] Argyle, L. P., Busby, E. C., Fulda, N., Gubler, J. R., Rytting, C.,
-Wingate, D., "Out of One, Many: Using Language Models to Simulate Human
+[1] Argyle, Lisa P., Busby, Ethan C., Fulda, Nancy., Gubler, Joshua R.,
+Rytting, Christopher., Wingate, David, "Out of One, Many: Using Language Models to Simulate Human
 Samples", Political Analysis, 31(3), 2023.
-[2] Ge, T., Chan, X., Wang, X., Yu, D., Mi, H., Yu, D., "Scaling Synthetic
+[2] Ge, Tao., Chan, Xin., Wang, Xiaoyang., Yu, Dian., Mi, Haitao., Yu, Dong, "Scaling Synthetic
 Data Creation with 1,000,000,000 Personas", arXiv preprint,
 arXiv:2406.20094, 2024.
-[3] Hu, E. J., Shen, Y., Wallis, P., Allen-Zhu, Z., Li, Y., Wang, S.,
-Wang, L., Chen, W., "LoRA: Low-Rank Adaptation of Large Language Models",
+[3] Hu, Edward J., Shen, Yelong., Wallis, Phillip., Allen-Zhu, Zeyuan., Li,
+Yuanzhi., Wang, Shean., Wang, Lu., Chen, Weizhu, "LoRA: Low-Rank Adaptation of Large Language Models",
 International Conference on Learning Representations (ICLR), 2022.
-[4] Jang, M., Kim, D., Kwon, D. S., Davis, E., "KoBEST: Korean Balanced
+[4] Jang, Myeongjun., Kim, Dohyung., Kwon, Deuk Sin., Davis, Eric, "KoBEST: Korean Balanced
 Evaluation of Significant Tasks", Proceedings of the 29th International
 Conference on Computational Linguistics (COLING), 2022.
-[5] Kambhatla, G., Shaib, C., Govindarajan, V. S., "Measuring Lexical
+[5] Kambhatla, Gauri., Shaib, Chantal., Govindarajan, Venkata S., "Measuring Lexical
 Diversity of Synthetic Data Generated through Fine-Grained Persona
 Prompting", Findings of the Association for Computational Linguistics:
 EMNLP 2025, pp.21024-21033, 2025.
-[6] Kim, H., Cho, K. T., "Distributional Validity and Calibration of a
+[6] Kim, Howard., Cho, Keun Tae, "Distributional Validity and Calibration of a
 Korean Synthetic Persona Panel for Digital and AI Service Use: A
 Secondary-Data Validation Against the Korea Media Panel Survey", SocArXiv
 preprint, https://doi.org/10.31235/osf.io/zb3w2_v1, 2026.
-[7] Kim, H., Kim, E., Lee, J., "Korean-developed versus Global Commercial
+[7] Kim, Howard., Kim, Eunho., Lee, Jongwon, "Korean-developed versus Global Commercial
 LLMs across Knowledge, Robustness, and Pragmatics: A July 2026 API
 Snapshot", under review, 2026.
-[8] Lambert, N., Morrison, J., Ivison, H., et al., "Tulu 3: Pushing
+[8] Lambert, Nathan., Morrison, Jacob., Ivison, Hamish., et al., "Tulu 3: Pushing
 Frontiers in Open Language Model Post-Training", arXiv preprint, 2025.
 [9] LG AI Research, "EXAONE 3.5: Series of Large Language Models for
 Real-world Use Cases", arXiv preprint, arXiv:2412.04862, 2024.
 [10] NTT DATA., NVIDIA, 「From Scarcity to Scale: How Synthetic Personas
 Can Bootstrap Japanese AI Development」, NVIDIA Technical Blog, 2026.
 [11] NVIDIA, 「Nemotron-Personas-Korea」, Hugging Face Datasets, 2026.
-[12] Shumailov, I., Shumaylov, Z., Zhao, Y., Papernot, N., Anderson, R.,
-Gal, Y., "AI Models Collapse When Trained on Recursively Generated Data",
+[12] Shumailov, Ilia., Shumaylov, Zakhar., Zhao, Yiren., Papernot, Nicolas.,
+Anderson, Ross., Gal, Yarin, "AI Models Collapse When Trained on Recursively Generated Data",
 Nature, 631, 2024.
-[13] Son, G., Lee, H., Kim, S., et al., "KMMLU: Measuring Massive
+[13] Son, Guijin., Lee, Hanwool., Kim, Sungdong., et al., "KMMLU: Measuring Massive
 Multitask Language Understanding in Korean", Findings of the Association
 for Computational Linguistics: NAACL 2025, pp.4076-4104, 2025.
-[14] Venkit, P. N., Li, Y., Pruksachatkun, Y., Wu, C.-S., "The Need for a
+[14] Venkit, Pranav Narayanan., Li, Yu., Pruksachatkun, Yada., Wu,
+Chien-Sheng, "The Need for a
 Socially-Grounded Persona Framework for User Simulation", arXiv preprint,
 arXiv:2601.07110, 2026.
-[15] Zheng, L., Chiang, W.-L., Sheng, Y., et al., "Judging LLM-as-a-Judge
+[15] Zheng, Lianmin., Chiang, Wei-Lin., Sheng, Ying., et al., "Judging LLM-as-a-Judge
 with MT-Bench and Chatbot Arena", Advances in Neural Information
 Processing Systems 36 (NeurIPS), 2023.
 [16] https://osf.io/fc8mn (2026.08.04)
@@ -519,28 +520,29 @@ Processing Systems 36 (NeurIPS), 2023.
 
 ## Endnote
 
-1) Shumailov, I., Shumaylov, Z., Zhao, Y., Papernot, N., Anderson, R.,
-Gal, Y., "AI Models Collapse When Trained on Recursively Generated Data",
+1) Shumailov, Ilia., Shumaylov, Zakhar., Zhao, Yiren., Papernot, Nicolas.,
+Anderson, Ross., Gal, Yarin, "AI Models Collapse When Trained on Recursively Generated Data",
 Nature, 631, pp.755-759, 2024.
-2) Ge, T., Chan, X., Wang, X., Yu, D., Mi, H., Yu, D., "Scaling Synthetic
+2) Ge, Tao., Chan, Xin., Wang, Xiaoyang., Yu, Dian., Mi, Haitao., Yu, Dong, "Scaling Synthetic
 Data Creation with 1,000,000,000 Personas", arXiv:2406.20094, 2024.
-3) Lambert, N., Morrison, J., Ivison, H., et al., "Tulu 3: Pushing
+3) Lambert, Nathan., Morrison, Jacob., Ivison, Hamish., et al., "Tulu 3: Pushing
 Frontiers in Open Language Model Post-Training", arXiv preprint, 2025.
 4) NVIDIA, 「Nemotron-Personas-Korea」, Hugging Face Datasets, 2026.
-5) Ge, T., et al., op.cit., 2024.
-6) Lambert, N., et al., op.cit., 2025.
-7) Kambhatla, G., Shaib, C., Govindarajan, V. S., "Measuring Lexical
+5) Ge, Tao., et al., op.cit., 2024.
+6) Lambert, Nathan., et al., op.cit., 2025.
+7) Kambhatla, Gauri., Shaib, Chantal., Govindarajan, Venkata S., "Measuring Lexical
 Diversity of Synthetic Data Generated through Fine-Grained Persona
 Prompting", Findings of the Association for Computational Linguistics:
 EMNLP 2025, pp.21024-21033, 2025.
 8) NTT DATA., NVIDIA, 「From Scarcity to Scale: How Synthetic Personas Can
 Bootstrap Japanese AI Development」, NVIDIA Technical Blog, 2026.
-9) Venkit, P. N., Li, Y., Pruksachatkun, Y., Wu, C.-S., "The Need for a
+9) Venkit, Pranav Narayanan., Li, Yu., Pruksachatkun, Yada., Wu,
+Chien-Sheng, "The Need for a
 Socially-Grounded Persona Framework for User Simulation",
 arXiv:2601.07110, 2026.
-10) Argyle, L. P., et al., "Out of One, Many: Using Language Models to
+10) Argyle, Lisa P., et al., "Out of One, Many: Using Language Models to
 Simulate Human Samples", Political Analysis, 31(3), pp.337-351, 2023.
-11) Kim, H., Cho, K. T., "Distributional Validity and Calibration of a
+11) Kim, Howard., Cho, Keun Tae, "Distributional Validity and Calibration of a
 Korean Synthetic Persona Panel for Digital and AI Service Use", SocArXiv
 preprint, https://doi.org/10.31235/osf.io/zb3w2_v1, 2026.
 12) Persona identifiers were absent from the per-item output records
@@ -558,19 +560,19 @@ commercial judge, billed in KRW) are estimates from token counts, as
 per-call usage was not logged. Local compute is excluded.
 15) LG AI Research, "EXAONE 3.5: Series of Large Language Models for
 Real-world Use Cases", arXiv:2412.04862, 2024.
-16) Hu, E. J., Shen, Y., Wallis, P., et al., "LoRA: Low-Rank Adaptation
+16) Hu, Edward J., Shen, Yelong., Wallis, Phillip., et al., "LoRA: Low-Rank Adaptation
 of Large Language Models", ICLR, 2022.
-17) Zheng, L., Chiang, W.-L., Sheng, Y., et al., "Judging LLM-as-a-Judge
+17) Zheng, Lianmin., Chiang, Wei-Lin., Sheng, Ying., et al., "Judging LLM-as-a-Judge
 with MT-Bench and Chatbot Arena", NeurIPS 36, 2023.
-18) Kim, H., Kim, E., Lee, J., "Korean-developed versus Global Commercial
+18) Kim, Howard., Kim, Eunho., Lee, Jongwon, "Korean-developed versus Global Commercial
 LLMs across Knowledge, Robustness, and Pragmatics: A July 2026 API
 Snapshot", under review, 2026.
-19) Jang, M., Kim, D., Kwon, D. S., Davis, E., "KoBEST: Korean Balanced
+19) Jang, Myeongjun., Kim, Dohyung., Kwon, Deuk Sin., Davis, Eric, "KoBEST: Korean Balanced
 Evaluation of Significant Tasks", COLING, 2022.
-20) Son, G., Lee, H., Kim, S., et al., "KMMLU: Measuring Massive Multitask
+20) Son, Guijin., Lee, Hanwool., Kim, Sungdong., et al., "KMMLU: Measuring Massive Multitask
 Language Understanding in Korean", Findings of NAACL 2025, pp.4076-4104,
 2025.
-21) Kim, H., Kim, E., Lee, J., op.cit., 2026.
+21) Kim, Howard., Kim, Eunho., Lee, Jongwon, op.cit., 2026.
 22) Generative-AI use is disclosed as committed in the preregistration:
 training data were generated by DeepSeek-V4-Flash-0731; responses were
 scored by gpt-5.6-sol, claude-opus-5, gpt-5.2, and HCX-007; and an AI
