@@ -103,7 +103,8 @@ def main():
 
     # 4) MANIFEST
     lines = []
-    for root, _, files in os.walk(PKG):
+    for root, dirs, files in os.walk(PKG):
+        dirs[:] = [d for d in dirs if d != ".git"]
         for f in sorted(files):
             if f == "MANIFEST.sha256":
                 continue
@@ -111,8 +112,10 @@ def main():
             lines.append(f"{sha256(p)}  {os.path.relpath(p, PKG)}")
     open(os.path.join(PKG, "MANIFEST.sha256"), "w").write("\n".join(lines))
 
-    total = sum(os.path.getsize(os.path.join(r, f))
-                for r, _, fs in os.walk(PKG) for f in fs)
+    total = 0
+    for r, ds, fs in os.walk(PKG):
+        ds[:] = [d for d in ds if d != ".git"]
+        total += sum(os.path.getsize(os.path.join(r, f)) for f in fs)
     print(f"패키지 파일 {len(lines)}개, {total/1e6:.0f}MB → {PKG}")
 
 
