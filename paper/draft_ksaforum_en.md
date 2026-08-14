@@ -490,8 +490,8 @@ Prompting", Findings of the Association for Computational Linguistics:
 EMNLP 2025, pp.21024-21033, 2025.
 [6] Kim, H., Cho, K. T., "Distributional Validity and Calibration of a
 Korean Synthetic Persona Panel for Digital and AI Service Use: A
-Secondary-Data Validation Against the Korea Media Panel Survey", under
-review, 2026.
+Secondary-Data Validation Against the Korea Media Panel Survey", SocArXiv
+preprint, https://doi.org/10.31235/osf.io/zb3w2_v1, 2026.
 [7] Kim, H., Kim, E., Lee, J., "Korean-developed versus Global Commercial
 LLMs across Knowledge, Robustness, and Pragmatics: A July 2026 API
 Snapshot", under review, 2026.
@@ -541,8 +541,8 @@ arXiv:2601.07110, 2026.
 10) Argyle, L. P., et al., "Out of One, Many: Using Language Models to
 Simulate Human Samples", Political Analysis, 31(3), 2023.
 11) Kim, H., Cho, K. T., "Distributional Validity and Calibration of a
-Korean Synthetic Persona Panel for Digital and AI Service Use", under
-review, 2026.
+Korean Synthetic Persona Panel for Digital and AI Service Use", SocArXiv
+preprint, https://doi.org/10.31235/osf.io/zb3w2_v1, 2026.
 12) Persona identifiers were absent from the per-item output records
 because the source CSV carries a UTF-8 byte-order mark; they were restored
 post hoc from the deterministic selection indices and are included in the
