@@ -495,13 +495,14 @@ preprint, https://doi.org/10.31235/osf.io/zb3w2_v1, 2026.
 [7] Kim, Howard., Kim, Eunho., Lee, Jongwon, "Korean-developed versus Global Commercial
 LLMs across Knowledge, Robustness, and Pragmatics: A July 2026 API
 Snapshot", under review, 2026.
-[8] Lambert, Nathan., Morrison, Jacob., Ivison, Hamish., et al., "Tulu 3: Pushing
-Frontiers in Open Language Model Post-Training", arXiv preprint, 2025.
+[8] Lambert, Nathan., Morrison, Jacob., Pyatkin, Valentina., et al., "Tulu 3: Pushing
+Frontiers in Open Language Model Post-Training", arXiv preprint,
+arXiv:2411.15124, 2025.
 [9] LG AI Research, "EXAONE 3.5: Series of Large Language Models for
 Real-world Use Cases", arXiv preprint, arXiv:2412.04862, 2024.
-[10] NTT DATA., NVIDIA, 「From Scarcity to Scale: How Synthetic Personas
-Can Bootstrap Japanese AI Development」, NVIDIA Technical Blog, 2026.
-[11] NVIDIA, 「Nemotron-Personas-Korea」, Hugging Face Datasets, 2026.
+[10] NTT DATA., NVIDIA, "From Scarcity to Scale: How Synthetic Personas
+Can Bootstrap Japanese AI Development", NVIDIA Technical Blog, 2026.
+[11] NVIDIA, "Nemotron-Personas-Korea", Hugging Face Datasets, 2026.
 [12] Shumailov, Ilia., Shumaylov, Zakhar., Zhao, Yiren., Papernot, Nicolas.,
 Anderson, Ross., Gal, Yarin, "AI Models Collapse When Trained on Recursively Generated Data",
 Nature, 631, 2024.
@@ -525,17 +526,18 @@ Anderson, Ross., Gal, Yarin, "AI Models Collapse When Trained on Recursively Gen
 Nature, 631, pp.755-759, 2024.
 2) Ge, Tao., Chan, Xin., Wang, Xiaoyang., Yu, Dian., Mi, Haitao., Yu, Dong, "Scaling Synthetic
 Data Creation with 1,000,000,000 Personas", arXiv:2406.20094, 2024.
-3) Lambert, Nathan., Morrison, Jacob., Ivison, Hamish., et al., "Tulu 3: Pushing
-Frontiers in Open Language Model Post-Training", arXiv preprint, 2025.
-4) NVIDIA, 「Nemotron-Personas-Korea」, Hugging Face Datasets, 2026.
+3) Lambert, Nathan., Morrison, Jacob., Pyatkin, Valentina., et al., "Tulu 3: Pushing
+Frontiers in Open Language Model Post-Training", arXiv:2411.15124,
+2025.
+4) NVIDIA, "Nemotron-Personas-Korea", Hugging Face Datasets, 2026.
 5) Ge, Tao., et al., op.cit., 2024.
 6) Lambert, Nathan., et al., op.cit., 2025.
 7) Kambhatla, Gauri., Shaib, Chantal., Govindarajan, Venkata S., "Measuring Lexical
 Diversity of Synthetic Data Generated through Fine-Grained Persona
 Prompting", Findings of the Association for Computational Linguistics:
 EMNLP 2025, pp.21024-21033, 2025.
-8) NTT DATA., NVIDIA, 「From Scarcity to Scale: How Synthetic Personas Can
-Bootstrap Japanese AI Development」, NVIDIA Technical Blog, 2026.
+8) NTT DATA., NVIDIA, "From Scarcity to Scale: How Synthetic Personas Can
+Bootstrap Japanese AI Development", NVIDIA Technical Blog, 2026.
 9) Venkit, Pranav Narayanan., Li, Yu., Pruksachatkun, Yada., Wu,
 Chien-Sheng, "The Need for a
 Socially-Grounded Persona Framework for User Simulation",
@@ -590,7 +592,7 @@ final manuscript were made and approved by the authors.
       저자/소속을 먼저 쓰고 영문을 병기하며, 표지 하단에 "THE KOREAN SOCIETY
       OF SCIENCE & ART / 한국과학예술융합학회"를 넣는다. 목차는 Contents,
       로마자 I~V, 말미에 Reference와 **Endnote**를 둔다. 참고문헌은 [n] 번호
-      + 저자 성 알파벳순, 논문은 "제목", 단행본·보고서·데이터셋은 「제목」,
+      + 저자 성 알파벳순, 제목은 전부 "제목"(겹낫표는 단행본 전용이라 미사용),
       웹사이트는 URL (접속일). **영문 논문에는 국문초록이 없다**(샘플 기준) —
       Abstract + Key Words만. 준비해 둔 국문초록은 예비로 보관.
 - [x] Key Words 3-5, English only (rule 4.5 for English submissions)
