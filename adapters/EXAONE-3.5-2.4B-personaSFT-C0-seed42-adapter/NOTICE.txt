@@ -1,0 +1,5 @@
+EXAONE-3.5-2.4B-personaSFT-C0-seed42-adapter
+
+This is a LoRA adapter derived from LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct.
+Distributed under the EXAONE AI Model License Agreement 1.1-NC (see LICENSE.txt).
+Research and non-commercial use only. Commercial use is prohibited.

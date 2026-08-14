@@ -1,0 +1,41 @@
+{
+    "adapter_path": "/Users/howardkim/Research/persona-augmentation/lora_main/adapters_C1_s777",
+    "batch_size": 4,
+    "clear_cache_threshold": 0,
+    "config": "lora_main/config_C1_s777.yaml",
+    "data": "/Users/howardkim/Research/persona-augmentation/lora_main/data_C1",
+    "fine_tune_type": "lora",
+    "grad_accumulation_steps": 1,
+    "grad_checkpoint": false,
+    "iters": 4750,
+    "learning_rate": 0.0001,
+    "lora_parameters": {
+        "rank": 16,
+        "dropout": 0.05,
+        "scale": 2.0
+    },
+    "lr_schedule": null,
+    "mask_prompt": false,
+    "max_seq_length": 2048,
+    "model": "mlx-community/EXAONE-3.5-2.4B-Instruct-bf16",
+    "num_layers": 16,
+    "optimizer": "adam",
+    "optimizer_config": {
+        "adam": {},
+        "adamw": {},
+        "muon": {},
+        "sgd": {},
+        "adafactor": {}
+    },
+    "project_name": null,
+    "report_to": null,
+    "resume_adapter_file": null,
+    "save_every": 250,
+    "seed": 777,
+    "steps_per_eval": 250,
+    "steps_per_report": 250,
+    "test": false,
+    "test_batches": 500,
+    "train": true,
+    "val_batches": 25
+}

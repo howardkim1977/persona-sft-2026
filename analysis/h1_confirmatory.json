@@ -1,0 +1,130 @@
+{
+  "n_prompts": 500,
+  "metrics": {
+    "distinct1": {
+      "C0": 0.29938,
+      "C1": 0.30211,
+      "C2": 0.30794,
+      "base": 0.24904
+    },
+    "distinct2": {
+      "C0": 0.79785,
+      "C1": 0.8078,
+      "C2": 0.80926,
+      "base": 0.72457
+    },
+    "distinct3": {
+      "C0": 0.94324,
+      "C1": 0.95342,
+      "C2": 0.95114,
+      "base": 0.89849
+    },
+    "self_bleu": {
+      "C0": 0.01033,
+      "C1": 0.01206,
+      "C2": 0.01203,
+      "base": 0.01466
+    },
+    "compression": {
+      "C0": 3.33271,
+      "C1": 3.34414,
+      "C2": 3.29886,
+      "base": 3.44654
+    }
+  },
+  "tests": {
+    "C2_vs_C0": {
+      "per_metric": {
+        "distinct1": {
+          "point": 0.00514,
+          "ci": [
+            0.00132,
+            0.00892
+          ],
+          "supported": true
+        },
+        "distinct2": {
+          "point": 0.00595,
+          "ci": [
+            -0.00186,
+            0.0135
+          ],
+          "supported": false
+        },
+        "distinct3": {
+          "point": 0.00385,
+          "ci": [
+            -0.00475,
+            0.0122
+          ],
+          "supported": false
+        },
+        "self_bleu": {
+          "point": -0.0017,
+          "ci": [
+            -0.00195,
+            -0.00146
+          ],
+          "supported": false
+        },
+        "compression": {
+          "point": -0.05156,
+          "ci": [
+            -0.08128,
+            -0.02567
+          ],
+          "supported": false
+        }
+      },
+      "supported_count": 1,
+      "h1_supported": false
+    },
+    "C2_vs_C1": {
+      "per_metric": {
+        "distinct1": {
+          "point": 0.00381,
+          "ci": [
+            0.0001,
+            0.00759
+          ],
+          "supported": true
+        },
+        "distinct2": {
+          "point": 0.00074,
+          "ci": [
+            -0.00688,
+            0.00837
+          ],
+          "supported": false
+        },
+        "distinct3": {
+          "point": -0.00124,
+          "ci": [
+            -0.00968,
+            0.00729
+          ],
+          "supported": false
+        },
+        "self_bleu": {
+          "point": 3e-05,
+          "ci": [
+            -0.00025,
+            0.0003
+          ],
+          "supported": false
+        },
+        "compression": {
+          "point": 0.03637,
+          "ci": [
+            0.01364,
+            0.05939
+          ],
+          "supported": true
+        }
+      },
+      "supported_count": 2,
+      "h1_supported": false
+    }
+  },
+  "n_boot": 10000
+}

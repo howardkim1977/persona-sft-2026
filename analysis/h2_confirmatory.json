@@ -1,0 +1,64 @@
+{
+  "qwk_sol_opus5": 0.6661,
+  "exact_agree": 0.775,
+  "n_items": 400,
+  "excluded_items": 0,
+  "axes": {
+    "age": {
+      "gaps": {
+        "C0": 0.0725,
+        "C1": 0.0125,
+        "C2": 0.05,
+        "base": -0.045
+      },
+      "n_ref": 100,
+      "n_sub": 100,
+      "tests": {
+        "C1-C2": {
+          "point": -0.0375,
+          "ci": [
+            -0.145,
+            0.0675
+          ],
+          "supported": false
+        },
+        "C0-C2": {
+          "point": 0.0225,
+          "ci": [
+            -0.0825,
+            0.125
+          ],
+          "supported": false
+        }
+      }
+    },
+    "region": {
+      "gaps": {
+        "C0": -0.0275,
+        "C1": 0.0725,
+        "C2": 0.055,
+        "base": -0.03
+      },
+      "n_ref": 100,
+      "n_sub": 100,
+      "tests": {
+        "C1-C2": {
+          "point": 0.0175,
+          "ci": [
+            -0.0775,
+            0.1175
+          ],
+          "supported": false
+        },
+        "C0-C2": {
+          "point": -0.0825,
+          "ci": [
+            -0.1875,
+            0.0225
+          ],
+          "supported": false
+        }
+      }
+    }
+  }
+}

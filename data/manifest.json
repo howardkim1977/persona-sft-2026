@@ -1,0 +1,23 @@
+{
+  "model": "deepseek/deepseek-v4-flash-0731",
+  "n_per_cond": 10000,
+  "seed": 42,
+  "reservoir_k": 13000,
+  "tasks": [
+    "정보질의",
+    "조언요청",
+    "설명요청",
+    "일상대화",
+    "글쓰기",
+    "계획수립",
+    "추천요청",
+    "문제해결"
+  ],
+  "params": {
+    "temperature": 1.0,
+    "max_tokens": 2000,
+    "reasoning": "disabled"
+  },
+  "created": "2026-08-04",
+  "prereg": "OSF project fc8mn, Open-Ended Registration v0.2"
+}

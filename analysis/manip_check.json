@@ -1,0 +1,27 @@
+{
+  "self_bleu_subsample": 2000,
+  "C0": {
+    "n": 10000,
+    "distinct1": 0.09044,
+    "distinct2": 0.40842,
+    "distinct3": 0.63216,
+    "compression": 4.61993,
+    "self_bleu_2k": 0.03013
+  },
+  "C1": {
+    "n": 10000,
+    "distinct1": 0.1145,
+    "distinct2": 0.54162,
+    "distinct3": 0.80941,
+    "compression": 3.44741,
+    "self_bleu_2k": 0.02587
+  },
+  "C2": {
+    "n": 10000,
+    "distinct1": 0.1295,
+    "distinct2": 0.59337,
+    "distinct3": 0.85057,
+    "compression": 3.2009,
+    "self_bleu_2k": 0.02437
+  }
+}
